@@ -46,7 +46,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: AI Research Engineer @ Oraclase (Max Planck Institute for Informatics)
+role: kkkkkkkkAI Research Engineer @ Oraclase (Max Planck Institute for Informatics)
 highlight_name: true
 title: Arpit Jadon
 first_name: Alice
